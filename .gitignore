@@ -1,2 +1,27 @@
+# submission/*
+
+# checkpoints and data
 data/*
 checkpoint/*
+
+# common files
+*.log
+*.csv
+*.json
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
